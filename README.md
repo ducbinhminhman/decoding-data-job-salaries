@@ -26,7 +26,7 @@ This repository not only explores the vast and varied landscape of data job sala
 
 ## Acknowledgments
 
-A heartfelt thank you to [Qudirah][https://medium.com/@qudrohbidemi] for the inspiring [post][https://medium.com/@qudrohbidemi/sql-and-power-bi-project-data-science-jobs-salaries-43fd4e7b76c7], [Hannah Vo][https://www.linkedin.com/in/hannah-vo-bbba43180/overlay/about-this-profile/] for the brilliant idea to explore regional differences, and a special shoutout to Cato for his invaluable feedback on my writing.
+A heartfelt thank you to [Qudirah](https://medium.com/@qudrohbidemi) for the inspiring [post](https://medium.com/@qudrohbidemi/sql-and-power-bi-project-data-science-jobs-salaries-43fd4e7b76c7), [Hannah Vo](https://www.linkedin.com/in/hannah-vo-bbba43180/overlay/about-this-profile/) for the brilliant idea to explore regional differences, and a special shoutout to Cato for his invaluable feedback on my writing.
 
 ## Dive Into the Data
 
